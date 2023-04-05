@@ -1,0 +1,96 @@
+.Navbar {
+    height: 15vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* background-color: gray; */
+    border-bottom: 1px solid white;
+    /* border-color: red; */
+    padding-top: 15px;
+}
+
+.Logo {
+    margin-top: 20px;
+    height: 10vh;
+    width: 100px;
+    /* background-color: red; */
+}
+
+.nikeImage {
+    object-fit: contain;
+    height: 10vh;
+    width: 200px;
+    border-radius: 30px;
+    /* margin-top: -70px;
+    margin-left: -50px; */
+}
+
+.Lists {
+    margin-top: 20px;
+    height: 10vh;
+    width: 45vw;
+    margin-right: -100px;
+    /* background-color: white; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.listItem {
+    font-family: 'Montserrat';
+    font-size: 16px;
+    color: white;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: 20px;
+    /* line-height: 100px; */
+    /* color: #ffffff; */
+}
+
+.listItem:hover {
+    font-family: 'Montserrat';
+    font-size: 16px;
+    color: black;
+    text-transform: capitalize;
+    font-weight: 700;
+    /* line-height: 100px; */
+    /* color: #ffffff; */
+}
+
+.mainButton {
+    margin-top: 30px;
+    text-align: center;
+    /* border: 2px solid white; */
+    height: 5vh;
+    width: 100px;
+    /* background-color: red; */
+    border-radius: 20px;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    text-transform: capitalize;
+    font-weight: 1000;
+    color: white;
+
+    /* border-radius: 8px; */
+    /* border: 3px solid white; */
+    border-color: black;
+    background-color: black;
+    padding: 0.1em 1em;
+    /* font-size: 1em;
+    font-weight: 500; */
+    /* font-family: inherit; */
+    /* background-color: #1a1a1a; */
+    cursor: pointer;
+    transition: border-color 0.25s;
+    /* background-color: none !important; */
+    /* line-height: 100px; */
+    /* color: #ffffff; */
+}
+
+.mainButton:hover {
+    /* color: black; */
+    border-color: white;
+    background-color: white;
+    color: black;
+}

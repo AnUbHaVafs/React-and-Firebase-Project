@@ -1,0 +1,119 @@
+.subIntroClone {
+    height: 100vh;
+    width: 100vw;
+    background-color: lightgray;
+}
+
+.subIntroCloneTwo {
+    height: 43vh;
+    width: 100vw;
+    background-color: lightgray;
+}
+
+.helpersHeadings {
+    margin-left: 20vw;
+    /* padding-top: 100px; */
+    margin-top: -150px;
+    width: 600px;
+    /* background-color: orange; */
+}
+
+.headingSubsClone {
+    height: 180px;
+    width: 800px;
+    text-align: center;
+    margin-left: -80px;
+    /* background-color: palegoldenrod; */
+    /* margin-top: 500px; */
+}
+
+.helpersBox {
+    height: 40vh;
+    width: 85vw;
+    text-align: center;
+    margin-left: -13vw;
+    /* background-color: palegoldenrod; */
+    margin-top: 40vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.subsHOne {
+    font-family: 'Roboto', sans-serif;
+    color: #a0d334;
+    font-size: 14px;
+    font-weight: 700;
+    /* background-color: pink; */
+    /* margin-top: 50px; */
+}
+
+.subsHTwoClone {
+    font-family: 'Montserrat';
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 40px;
+    color: white;
+    /* background-color: yellow; */
+    margin-top: -5px;
+}
+
+.fontSIncrease {
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+
+.helperCard {
+    width: 25vw;
+    height: 40vh;
+    /* background-color: lightgray; */
+    display: flex;
+    flex-direction: row;
+}
+
+.numbering {
+    /* position: absolute; */
+    font-family: 'Montserrat';
+    color: #e8e8e8;
+    font-size: 55px;
+    line-height: 29px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.helpTOne {
+    color: #9b9b9b;
+    /* font-family: 'Montserrat'; */
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.helpTTwo {
+    color: #282828;
+    /* font-family: 'Montserrat'; */
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 29px;
+}
+
+.helpTTwoRead {
+    color: #282828;
+    font-family: 'Montserrat';
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 29px;
+}
+
+.helpersBoxOne {
+    text-align: start;
+}
+
+.videoBx {
+    width: 80vw;
+    height: 80vh;
+    background-color: black;
+    z-index: 20;
+    margin-top: -50vh;
+    margin-left: 10vw;
+}

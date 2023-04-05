@@ -1,0 +1,64 @@
+.testimonialUI {
+    width: 100vw;
+    height: 80vh;
+    /* background-color: black; */
+    padding-top: 30vh;
+}
+
+.tmContentBx {
+    margin: auto;
+    /* background-color: lightblue; */
+    /* border: 1px solid grey; */
+    box-shadow: 0 3px 50px rgb(0 0 0 / 0.2);
+    width: 75vw;
+    height: 60vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.personImg {
+    /* object-fit: contain; */
+    width: 40px;
+    height: 40px;
+    border-radius: 500px;
+    margin-left: 36vw;
+    margin-top: 10vh;
+    /* margin: auto; */
+    /* display: flex; */
+}
+
+.tsContent {
+    /* margin-top: -200px; */
+    /* background-color: red; */
+    /* margin-bottom: 100px; */
+    margin: auto;
+    width: 50vw;
+    font-family: 'Montserrat';
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 36px;
+    color: #9b9b9b;
+}
+
+.afo {
+    object-fit: contain;
+    height: 6vh;
+    width: 6vw;
+}
+
+.desg {
+    margin-top: -20px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 23px;
+    color: #9b9b9b;
+}
+
+.nameTs {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1;
+    text-transform: capitalize;
+}

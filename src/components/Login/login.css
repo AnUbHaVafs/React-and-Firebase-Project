@@ -1,0 +1,138 @@
+.loginContainer {
+    width: 100vw;
+    height: 70vh;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.parentCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.serviceConatiner {
+    width: 50vw;
+    /* height: 40vh; */
+    background-color: white;
+    /* margin-top: -10px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* margin-top: -20px; */
+}
+
+.formContainer {
+    padding-top: 20px;
+    width: 24.8vw;
+    height: 55vh;
+    background-color: white;
+    margin-left: -205px;
+    text-align: center;
+    /* border: 1px solid gray; */
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.inputType {
+    color: #9b9b9b;
+    font-size: 13px;
+    font-weight: 400;
+    height: 51px;
+    line-height: 49px;
+    border: 1px solid transparent;
+    background: #f4f4f4;
+    padding: 0 0 0 20px;
+    /* padding: 0 0 0 20px;
+    margin-bottom: 30px; */
+    position: relative;
+    border-radius: 2px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    /* display: block; */
+    width: 70%;
+    margin: 10px;
+    transition: border-color .15s ease-in-out;
+    box-shadow: 15s ease-in-out;
+}
+
+
+
+.inputTypeTwo {
+    color: #9b9b9b;
+    /* height: 100px; */
+    font-size: 13px;
+    font-weight: 400;
+    height: 101px;
+    line-height: 49px;
+    border: 1px solid transparent;
+    background: #f4f4f4;
+    /* padding: 0 0 0 20px;
+    margin-bottom: 30px; */
+    position: relative;
+    border-radius: 2px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding: 0 0 0 20px;
+    /* display: block; */
+    width: 70%;
+    margin: 10px;
+}
+
+.loginSubmit {
+    /* display: flex; */
+    text-align: center;
+    /* margin-left: 95px; */
+    background-color: #282828;
+    color: #ffffff;
+    border: 2px solid #282828;
+    font-family: 'Montserrat';
+    position: relative;
+    z-index: 2;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-align: center;
+    border-radius: 0;
+    width: 77%;
+    height: 51px;
+}
+
+.loginCards {
+    width: 24vw;
+    height: 27vh;
+    background-color: #ffffff;
+}
+
+.cardTitle {
+    font-family: 'Montserrat';
+    color: #222;
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 700;
+}
+
+.loginCards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.puzzleImg {
+    width: 10vw;
+    height: 10vh;
+    object-fit: contain;
+    /* padding-right: 20px; */
+    /* padding-top: 20px; */
+    padding: 15px;
+}
+
+.smallFont {
+    font-size: 14px;
+    margin-top: -10px;
+    font-weight: 400;
+    color: #9b9b9b;
+}

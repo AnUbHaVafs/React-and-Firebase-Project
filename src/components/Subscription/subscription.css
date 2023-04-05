@@ -1,0 +1,163 @@
+.subIntro {
+    height: 130vh;
+    width: 100vw;
+    background-color: black;
+}
+
+.subsHeadingBox {
+    margin-left: 26vw;
+    padding-top: 100px;
+    width: 600px;
+    /* background-color: orange; */
+}
+
+.headingSubs {
+    height: 180px;
+    width: 600px;
+    text-align: center;
+    /* background-color: palegoldenrod; */
+    /* margin-top: 500px; */
+}
+
+.subsHOne {
+    font-family: 'Roboto', sans-serif;
+    color: #a0d334;
+    font-size: 14px;
+    font-weight: 700;
+    /* background-color: pink; */
+    /* margin-top: 50px; */
+}
+
+.subsHTwo {
+    font-family: 'Montserrat';
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 40px;
+    color: white;
+    /* background-color: yellow; */
+    margin-top: -5px;
+}
+
+.subsHThree {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: white;
+    margin-top: -15px;
+}
+
+.subsModals {
+    height: 80vh;
+    width: 91vw;
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+    gap: 40px;
+    padding-left: 9vw;
+}
+
+.subModalOne {
+    padding-top: 50px;
+    text-align: center;
+    height: 65.4vh;
+    width: 25vw;
+    background-color: white;
+    margin-top: 46px;
+}
+
+.subModalTwo {
+    text-align: center;
+    height: 80vh;
+    width: 25vw;
+    background-color: #a0d334;
+}
+
+.globe {
+    object-fit: contain;
+    width: 80px;
+    height: 80px;
+}
+
+.starterHFour {
+    color: black;
+}
+
+.starterHFourW {
+    color: white;
+}
+
+.subsPrice {
+    font-family: 'Montserrat';
+    font-size: 85px;
+    color: black;
+    /* background-color: yellow; */
+    margin-top: -30px;
+}
+
+.subsPriceW {
+    font-family: 'Montserrat';
+    font-size: 85px;
+    color: white;
+    /* background-color: yellow; */
+    margin-top: -30px;
+}
+
+.dollarSubs {
+    font-family: 'Montserrat';
+    font-size: 50px;
+    /* background-color: yellow; */
+}
+
+.dollarSubsW {
+    font-family: 'Montserrat';
+    font-size: 50px;
+    /* background-color: yellow; */
+}
+
+.subsDesOnePrice {
+    color: #a5a5a5;
+    /* color: white; */
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 21px;
+    margin-top: -80px;
+    /* width: 100px; */
+}
+
+.cW {
+    color: white;
+}
+
+.subsDesOnePriceW {
+    color: white;
+    /* color: white; */
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 21px;
+    margin-top: -80px;
+    /* width: 100px; */
+}
+
+.getStartedButton {
+    /* margin-bottom: 50px; */
+    margin-top: 30px;
+    border-radius: 50px;
+    width: 180px;
+    height: 50px;
+    border: 1px solid #a5a5a5;
+}
+
+.getStartedButtonG {
+    /* margin-bottom: 50px; */
+    margin-top: 30px;
+    border-radius: 50px;
+    width: 180px;
+    height: 50px;
+    border: 3px solid white;
+    background-color: #a0d334;
+}
+
+.pTen {
+    padding-top: 90px;
+}
